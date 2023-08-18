@@ -1,0 +1,1788 @@
+[
+    {
+        "title": "Bio et Ecologie",
+        "slug": "bio-et-ecologie",
+        "link": "https://www.carrefour.fr/r/bio-et-ecologie",
+        "sub_cat": [
+            {
+                "title": "Bio a Petit prix",
+                "slug": "bio-a-petit-prix",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/bio-petit-prix"
+            },
+            {
+                "title": "Le Marche",
+                "slug": "le-marche",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/le-marche"
+            },
+            {
+                "title": "Cremerie",
+                "slug": "cremerie",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/cremerie"
+            },
+            {
+                "title": "Frais et Surgeles",
+                "slug": "frais-et-surgeles",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/frais-et-surgeles"
+            },
+            {
+                "title": "Epicerie salee",
+                "slug": "epicerie-salee",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/epicerie-salee"
+            },
+            {
+                "title": "Epicerie sucree",
+                "slug": "epicerie-sucree",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/epicerie-sucree"
+            },
+            {
+                "title": "Boissons",
+                "slug": "boissons",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/boissons"
+            },
+            {
+                "title": "Bebe",
+                "slug": "bebe",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/bebe"
+            },
+            {
+                "title": "Hygiene beaute",
+                "slug": "hygiene-beaute",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/hygiene-beaute"
+            },
+            {
+                "title": "Produits menagers ecologiques",
+                "slug": "produits-menagers-ecologiques",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/produits-menagers-ecologiques"
+            },
+            {
+                "title": "Animaux",
+                "slug": "animaux",
+                "link": "https://www.carrefour.fr/r/bio-et-ecologie/animaux"
+            }
+        ]
+    },
+    {
+        "title": "Fruits et Legumes",
+        "slug": "fruits-et-legumes",
+        "link": "https://www.carrefour.fr/r/fruits-et-legumes",
+        "sub_cat": [
+            {
+                "title": "Fruits et Legumes Bio",
+                "slug": "fruits-et-legumes-bio",
+                "link": "https://www.carrefour.fr/r/fruits-et-legumes/fruits-et-legumes-bio"
+            },
+            {
+                "title": "Fruits",
+                "slug": "fruits",
+                "link": "https://www.carrefour.fr/r/fruits-et-legumes/fruits"
+            },
+            {
+                "title": "Legumes",
+                "slug": "legumes",
+                "link": "https://www.carrefour.fr/r/fruits-et-legumes/legumes"
+            },
+            {
+                "title": "Pret a consommer",
+                "slug": "pret-a-consommer",
+                "link": "https://www.carrefour.fr/r/fruits-et-legumes/pret-a-consommer"
+            },
+            {
+                "title": "Jus de fruits frais et Gaspachos",
+                "slug": "jus-de-fruits-frais-et-gaspachos",
+                "link": "https://www.carrefour.fr/r/fruits-et-legumes/jus-de-fruits-et-legumes-frais"
+            },
+            {
+                "title": "Fruits secs et Graines",
+                "slug": "fruits-secs-et-graines",
+                "link": "https://www.carrefour.fr/r/fruits-et-legumes/fruits-et-legumes-secs"
+            },
+            {
+                "title": "Corbeilles et Paniers",
+                "slug": "corbeilles-et-paniers",
+                "link": "https://www.carrefour.fr/r/fruits-et-legumes/corbeille-et-panier"
+            }
+        ]
+    },
+    {
+        "title": "Viandes et Poissons",
+        "slug": "viandes-et-poissons",
+        "link": "https://www.carrefour.fr/r/viandes-et-poissons",
+        "sub_cat": [
+            {
+                "title": "C'est la saison : Barbecue",
+                "slug": "cest-la-saison-barbecue",
+                "link": "https://www.carrefour.fr/r/viandes-et-poissons/cest-saison-barbecue"
+            },
+            {
+                "title": "Boucherie",
+                "slug": "boucherie",
+                "link": "https://www.carrefour.fr/r/viandes-et-poissons/boucherie"
+            },
+            {
+                "title": "Volaille et Rotisserie",
+                "slug": "volaille-et-rotisserie",
+                "link": "https://www.carrefour.fr/r/viandes-et-poissons/volaille-et-rotisserie"
+            },
+            {
+                "title": "Poissonnerie",
+                "slug": "poissonnerie",
+                "link": "https://www.carrefour.fr/r/viandes-et-poissons/poissonnerie"
+            },
+            {
+                "title": "Traiteur de la mer",
+                "slug": "traiteur-de-la-mer",
+                "link": "https://www.carrefour.fr/r/viandes-et-poissons/traiteur-mer"
+            },
+            {
+                "title": "Les produits Carrefour",
+                "slug": "les-produits-carrefour",
+                "link": "https://www.carrefour.fr/r/viandes-et-poissons?filters%5Bfacet_marque%5D%5B0%5D=CARREFOUR&noRedirect=0"
+            }
+        ]
+    },
+    {
+        "title": "Pains et Patisseries",
+        "slug": "pains-et-patisseries",
+        "link": "https://www.carrefour.fr/r/pains-et-patisseries",
+        "sub_cat": [
+            {
+                "title": "Pains frais",
+                "slug": "pains-frais",
+                "link": "https://www.carrefour.fr/r/pains-et-patisseries/pains-frais"
+            },
+            {
+                "title": "Patisseries",
+                "slug": "patisseries",
+                "link": "https://www.carrefour.fr/r/pains-et-patisseries/patisserie"
+            },
+            {
+                "title": "Viennoiseries et Brioches fraiches",
+                "slug": "viennoiseries-et-brioches-fraiches",
+                "link": "https://www.carrefour.fr/r/pains-et-patisseries/viennoiseries-brioches-fraiches"
+            },
+            {
+                "title": "Viennoiseries et Brioches",
+                "slug": "viennoiseries-et-brioches",
+                "link": "https://www.carrefour.fr/r/pains-et-patisseries/viennoiseries-brioches"
+            },
+            {
+                "title": "Toasts et Pains de mie",
+                "slug": "toasts-et-pains-de-mie",
+                "link": "https://www.carrefour.fr/r/pains-et-patisseries/pains-de-mie"
+            },
+            {
+                "title": "Pains burger et Precuits",
+                "slug": "pains-burger-et-precuits",
+                "link": "https://www.carrefour.fr/r/pains-et-patisseries/pains-burger-precuits"
+            },
+            {
+                "title": "Les produits Carrefour",
+                "slug": "les-produits-carrefour",
+                "link": "https://www.carrefour.fr/r/pains-et-patisseries?filters%5Bfacet_marque%5D%5B0%5D=CARREFOUR&noRedirect=0"
+            }
+        ]
+    },
+    {
+        "title": "Cremerie et Produits laitiers",
+        "slug": "cremerie-et-produits-laitiers",
+        "link": "https://www.carrefour.fr/r/cremerie",
+        "sub_cat": [
+            {
+                "title": "Yaourts et Fromages blancs",
+                "slug": "yaourts-et-fromages-blancs",
+                "link": "https://www.carrefour.fr/r/cremerie/yaourts-fromages-blancs"
+            },
+            {
+                "title": "Desserts et Compotes",
+                "slug": "desserts-et-compotes",
+                "link": "https://www.carrefour.fr/r/cremerie/desserts-compotes"
+            },
+            {
+                "title": "Beurres et Cremes",
+                "slug": "beurres-et-cremes",
+                "link": "https://www.carrefour.fr/r/cremerie/beurres-cremes"
+            },
+            {
+                "title": "Laits",
+                "slug": "laits",
+                "link": "https://www.carrefour.fr/r/cremerie/laits"
+            },
+            {
+                "title": "\u0152ufs",
+                "slug": "\u0153ufs",
+                "link": "https://www.carrefour.fr/r/cremerie/oeufs"
+            },
+            {
+                "title": "Fromages a la coupe",
+                "slug": "fromages-a-la-coupe",
+                "link": "https://www.carrefour.fr/r/cremerie/fromages-coupe"
+            },
+            {
+                "title": "Fromages",
+                "slug": "fromages",
+                "link": "https://www.carrefour.fr/r/cremerie/fromages"
+            },
+            {
+                "title": "Les produits Carrefour",
+                "slug": "les-produits-carrefour",
+                "link": "https://www.carrefour.fr/r/cremerie?filters%5Bfacet_marque%5D%5B0%5D=CARREFOUR&noRedirect=0"
+            }
+        ]
+    },
+    {
+        "title": "Charcuterie et Traiteur",
+        "slug": "charcuterie-et-traiteur",
+        "link": "https://www.carrefour.fr/r/charcuterie-traiteur",
+        "sub_cat": [
+            {
+                "title": "Charcuterie a la coupe",
+                "slug": "charcuterie-a-la-coupe",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/charcuterie-coupe"
+            },
+            {
+                "title": "Charcuterie",
+                "slug": "charcuterie",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/charcuterie"
+            },
+            {
+                "title": "Traiteur traditionnel",
+                "slug": "traiteur-traditionnel",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/traiteur-traditionnel"
+            },
+            {
+                "title": "Aperitifs",
+                "slug": "aperitifs",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/aperitifs"
+            },
+            {
+                "title": "Entrees et Salades",
+                "slug": "entrees-et-salades",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/entrees-salades"
+            },
+            {
+                "title": "Pates a pizza, Pates a tartes et Crepes",
+                "slug": "pates-a-pizza-pates-a-tartes-et-crepes",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/pates-tartes-crepes"
+            },
+            {
+                "title": "Pizzas, Tartes, Pates fraiches",
+                "slug": "pizzas-tartes-pates-fraiches",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/pizzas-tartes-pates-fraiches"
+            },
+            {
+                "title": "Sandwichs et Repas express",
+                "slug": "sandwichs-et-repas-express",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/sandwich-repas-express"
+            },
+            {
+                "title": "Plats cuisines et Cuisine du monde",
+                "slug": "plats-cuisines-et-cuisine-du-monde",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/plats-cuisines"
+            },
+            {
+                "title": "Vegetarien et Vegetal",
+                "slug": "vegetarien-et-vegetal",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/vegetal"
+            },
+            {
+                "title": "Les produits Carrefour",
+                "slug": "les-produits-carrefour",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur?filters%5Bfacet_marque%5D%5B0%5D=CARREFOUR&noRedirect=0"
+            }
+        ]
+    },
+    {
+        "title": "Surgeles",
+        "slug": "surgeles",
+        "link": "https://www.carrefour.fr/r/surgeles",
+        "sub_cat": [
+            {
+                "title": "Glaces et Sorbets",
+                "slug": "glaces-et-sorbets",
+                "link": "https://www.carrefour.fr/r/surgeles/glaces-et-sorbets"
+            },
+            {
+                "title": "Aperitifs, Entrees et Snacking",
+                "slug": "aperitifs-entrees-et-snacking",
+                "link": "https://www.carrefour.fr/r/surgeles/aperitifs-entrees-snacking"
+            },
+            {
+                "title": "Pizzas, Quiches et Tartes",
+                "slug": "pizzas-quiches-et-tartes",
+                "link": "https://www.carrefour.fr/r/surgeles/pizzas-quiches-tartes"
+            },
+            {
+                "title": "Plats cuisines",
+                "slug": "plats-cuisines",
+                "link": "https://www.carrefour.fr/r/surgeles/plats-cuisines"
+            },
+            {
+                "title": "Fruits et Legumes",
+                "slug": "fruits-et-legumes",
+                "link": "https://www.carrefour.fr/r/surgeles/legumes-fruits"
+            },
+            {
+                "title": "Frites et Pommes de terre",
+                "slug": "frites-et-pommes-de-terre",
+                "link": "https://www.carrefour.fr/r/surgeles/frites-pommes-de-terre"
+            },
+            {
+                "title": "Viandes",
+                "slug": "viandes",
+                "link": "https://www.carrefour.fr/r/surgeles/viandes"
+            },
+            {
+                "title": "Poissons et Fruits de mer",
+                "slug": "poissons-et-fruits-de-mer",
+                "link": "https://www.carrefour.fr/r/surgeles/poissons-fruits-de-mer"
+            },
+            {
+                "title": "Pains, Patisseries et Viennoiseries",
+                "slug": "pains-patisseries-et-viennoiseries",
+                "link": "https://www.carrefour.fr/r/surgeles/pain-patisseries-viennoiseries"
+            },
+            {
+                "title": "Les produits Carrefour",
+                "slug": "les-produits-carrefour",
+                "link": "https://www.carrefour.fr/r/surgeles?filters%5Bfacet_marque%5D%5B0%5D=CARREFOUR&filters%5Bfacet_marque%5D%5B1%5D=CARREFOUR%20SENSATION%20&noRedirect=0"
+            }
+        ]
+    },
+    {
+        "title": "Boissons",
+        "slug": "boissons",
+        "link": "https://www.carrefour.fr/r/boissons",
+        "sub_cat": [
+            {
+                "title": "Cave a Vins",
+                "slug": "cave-a-vins",
+                "link": "https://www.carrefour.fr/r/boissons/cave-a-vins"
+            },
+            {
+                "title": "Eaux",
+                "slug": "eaux",
+                "link": "https://www.carrefour.fr/r/boissons/eaux"
+            },
+            {
+                "title": "Jus de fruits et legumes",
+                "slug": "jus-de-fruits-et-legumes",
+                "link": "https://www.carrefour.fr/r/boissons/jus-fruits-legumes"
+            },
+            {
+                "title": "Colas, Thes glaces, Sirops et Sodas",
+                "slug": "colas-thes-glaces-sirops-et-sodas",
+                "link": "https://www.carrefour.fr/r/boissons/colas-thes-glaces-et-soft-drinks"
+            },
+            {
+                "title": "Bieres et Cidres",
+                "slug": "bieres-et-cidres",
+                "link": "https://www.carrefour.fr/r/boissons/bieres-cidres"
+            },
+            {
+                "title": "Aperitifs et Spiritueux",
+                "slug": "aperitifs-et-spiritueux",
+                "link": "https://www.carrefour.fr/r/boissons/aperitifs-et-spiritueux"
+            },
+            {
+                "title": "Champagnes et Petillants",
+                "slug": "champagnes-et-petillants",
+                "link": "https://www.carrefour.fr/r/boissons/champagnes-petillants"
+            },
+            {
+                "title": "Cafes",
+                "slug": "cafes",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree/cafes"
+            },
+            {
+                "title": "Thes et Boissons chaudes",
+                "slug": "thes-et-boissons-chaudes",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree/boissons-chaudes"
+            },
+            {
+                "title": "Boissons vegetales",
+                "slug": "boissons-vegetales",
+                "link": "https://www.carrefour.fr/r/charcuterie-traiteur/vegetal/boissons-vegetales"
+            },
+            {
+                "title": "Les produits Carrefour",
+                "slug": "les-produits-carrefour",
+                "link": "https://www.carrefour.fr/r/boissons?filters%5Bfacet_marque%5D%5B0%5D=CARREFOUR&noRedirect=0"
+            }
+        ]
+    },
+    {
+        "title": "Epicerie salee",
+        "slug": "epicerie-salee",
+        "link": "https://www.carrefour.fr/r/epicerie-salee",
+        "sub_cat": [
+            {
+                "title": "Aperitifs et Chips",
+                "slug": "aperitifs-et-chips",
+                "link": "https://www.carrefour.fr/r/epicerie-salee/pour-laperitif"
+            },
+            {
+                "title": "Huiles, Vinaigres et Vinaigrettes",
+                "slug": "huiles-vinaigres-et-vinaigrettes",
+                "link": "https://www.carrefour.fr/r/epicerie-salee/huiles-vinaigres-et-vinaigrettes"
+            },
+            {
+                "title": "Conserves et Bocaux",
+                "slug": "conserves-et-bocaux",
+                "link": "https://www.carrefour.fr/r/epicerie-salee/conserves-et-bocaux"
+            },
+            {
+                "title": "Plats cuisines",
+                "slug": "plats-cuisines",
+                "link": "https://www.carrefour.fr/r/epicerie-salee/les-plats-cuisines"
+            },
+            {
+                "title": "Pates, Riz, Purees et Feculents",
+                "slug": "pates-riz-purees-et-feculents",
+                "link": "https://www.carrefour.fr/r/epicerie-salee/pates-riz-feculents"
+            },
+            {
+                "title": "Sauces et Condiments",
+                "slug": "sauces-et-condiments",
+                "link": "https://www.carrefour.fr/r/epicerie-salee/sauces-et-condiments"
+            },
+            {
+                "title": "Sel, Epices et Bouillons",
+                "slug": "sel-epices-et-bouillons",
+                "link": "https://www.carrefour.fr/r/epicerie-salee/sel-epices-et-bouillons"
+            },
+            {
+                "title": "Soupes et Croutons",
+                "slug": "soupes-et-croutons",
+                "link": "https://www.carrefour.fr/r/epicerie-salee/soupes-et-croutons"
+            }
+        ]
+    },
+    {
+        "title": "Epicerie sucree",
+        "slug": "epicerie-sucree",
+        "link": "https://www.carrefour.fr/r/epicerie-sucree",
+        "sub_cat": [
+            {
+                "title": "Cafes",
+                "slug": "cafes",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree/cafes"
+            },
+            {
+                "title": "Thes et Boissons chaudes",
+                "slug": "thes-et-boissons-chaudes",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree/boissons-chaudes"
+            },
+            {
+                "title": "Petit dejeuner",
+                "slug": "petit-dejeuner",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree/petit-dejeuner"
+            },
+            {
+                "title": "Biscuits",
+                "slug": "biscuits",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree/biscuits"
+            },
+            {
+                "title": "Gateaux moelleux",
+                "slug": "gateaux-moelleux",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree/gateaux-moelleux"
+            },
+            {
+                "title": "Chocolats et Bonbons",
+                "slug": "chocolats-et-bonbons",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree/chocolats-et-bonbons"
+            },
+            {
+                "title": "Sucres, Farines et Aide a la patisserie",
+                "slug": "sucres-farines-et-aide-a-la-patisserie",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree/sucres-farines-coulis-et-preparation-gateaux"
+            },
+            {
+                "title": "Compotes, Fruits au sirop et Cremes desserts",
+                "slug": "compotes-fruits-au-sirop-et-cremes-desserts",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree/compotes-fruits-au-sirop-et-cremes-desserts"
+            },
+            {
+                "title": "Les produits Carrefour",
+                "slug": "les-produits-carrefour",
+                "link": "https://www.carrefour.fr/r/epicerie-sucree?filters%5Bfacet_marque%5D%5B0%5D=CARREFOUR&noRedirect=0"
+            }
+        ]
+    },
+    {
+        "title": "Produits du monde",
+        "slug": "produits-du-monde",
+        "link": "https://www.carrefour.fr/r/produits-du-monde",
+        "sub_cat": [
+            {
+                "title": "Halal",
+                "slug": "halal",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/produits-halal"
+            },
+            {
+                "title": "Italie",
+                "slug": "italie",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/italie"
+            },
+            {
+                "title": "Asie",
+                "slug": "asie",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/asie"
+            },
+            {
+                "title": "Moyen Orient",
+                "slug": "moyen-orient",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/moyen-orient"
+            },
+            {
+                "title": "Mexique",
+                "slug": "mexique",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/mexique"
+            },
+            {
+                "title": "USA & Canada",
+                "slug": "usa-canada",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/usa-canada"
+            },
+            {
+                "title": "Espagne",
+                "slug": "espagne",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/espagne"
+            },
+            {
+                "title": "Portugal",
+                "slug": "portugal",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/portugal"
+            },
+            {
+                "title": "Grece",
+                "slug": "grece",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/grece"
+            },
+            {
+                "title": "Pologne",
+                "slug": "pologne",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/pologne"
+            },
+            {
+                "title": "Inde",
+                "slug": "inde",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/inde"
+            },
+            {
+                "title": "Outre mer",
+                "slug": "outre-mer",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/france-outre-mer"
+            }
+        ]
+    },
+    {
+        "title": "Produits regionaux et locaux",
+        "slug": "produits-regionaux-et-locaux",
+        "link": "https://www.carrefour.fr/r/produits-du-terroir",
+        "sub_cat": [
+            {
+                "title": "Le meilleur de ma region",
+                "slug": "le-meilleur-de-ma-region",
+                "link": "https://www.carrefour.fr/r/produits-du-terroir/meilleur-region"
+            },
+            {
+                "title": "Toutes nos regions",
+                "slug": "toutes-nos-regions",
+                "link": "https://www.carrefour.fr/r/produits-du-terroir/toutes-regions"
+            }
+        ]
+    },
+    {
+        "title": "Regimes alimentaires et Dietetique",
+        "slug": "regimes-alimentaires-et-dietetique",
+        "link": "https://www.carrefour.fr/r/dietetique-preferences-alimentaires",
+        "sub_cat": [
+            {
+                "title": "Halal",
+                "slug": "halal",
+                "link": "https://www.carrefour.fr/r/produits-du-monde/produits-halal"
+            },
+            {
+                "title": "Nutrition et Dietetique",
+                "slug": "nutrition-et-dietetique",
+                "link": "https://www.carrefour.fr/r/dietetique-preferences-alimentaires/nutrition-dietetique"
+            }
+        ]
+    },
+    {
+        "title": "Hygiene et Beaute",
+        "slug": "hygiene-et-beaute",
+        "link": "https://www.carrefour.fr/r/hygiene-et-beaute",
+        "sub_cat": [
+            {
+                "title": "Produits solaires",
+                "slug": "produits-solaires",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/le-corps/produits-solaires"
+            },
+            {
+                "title": "Epilation et Rasage",
+                "slug": "epilation-et-rasage",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/le-corps/epilation-et-rasage"
+            },
+            {
+                "title": "Soins des cheveux",
+                "slug": "soins-des-cheveux",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/les-cheveux"
+            },
+            {
+                "title": "Soins du visage",
+                "slug": "soins-du-visage",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/le-visage"
+            },
+            {
+                "title": "Soins du corps",
+                "slug": "soins-du-corps",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/le-corps"
+            },
+            {
+                "title": "Maquillage",
+                "slug": "maquillage",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/maquillage"
+            },
+            {
+                "title": "Hygiene dentaire",
+                "slug": "hygiene-dentaire",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/hygiene-dentaire"
+            },
+            {
+                "title": "Hygiene intime",
+                "slug": "hygiene-intime",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/hygiene-feminine-incontinence"
+            },
+            {
+                "title": "Enfants",
+                "slug": "enfants",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/enfants"
+            },
+            {
+                "title": "Hommes",
+                "slug": "hommes",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/hommes"
+            },
+            {
+                "title": "Premiers soins et Preservatifs",
+                "slug": "premiers-soins-et-preservatifs",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/premiers-soins"
+            },
+            {
+                "title": "Papier toilette, Mouchoirs, Cotons, Incontinence",
+                "slug": "papier-toilette-mouchoirs-cotons-incontinence",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/papier-toilette-mouchoirs-et-cotons"
+            },
+            {
+                "title": "Hygiene et Prevention Covid-19",
+                "slug": "hygiene-et-prevention-covid-19",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/hygiene-et-prevention-covid-19"
+            },
+            {
+                "title": "Bien-etre",
+                "slug": "bien-etre",
+                "link": "https://www.carrefour.fr/r/hygiene-et-beaute/bien-etre"
+            }
+        ]
+    },
+    {
+        "title": "Parapharmacie",
+        "slug": "parapharmacie",
+        "link": "https://www.carrefour.fr/r/parapharmacie",
+        "sub_cat": [
+            {
+                "title": "Solaire",
+                "slug": "solaire",
+                "link": "https://www.carrefour.fr/r/parapharmacie/solaire"
+            },
+            {
+                "title": "Capillaire",
+                "slug": "capillaire",
+                "link": "https://www.carrefour.fr/r/parapharmacie/capillaire"
+            },
+            {
+                "title": "Visage",
+                "slug": "visage",
+                "link": "https://www.carrefour.fr/r/parapharmacie/visage"
+            },
+            {
+                "title": "Dentaire",
+                "slug": "dentaire",
+                "link": "https://www.carrefour.fr/r/parapharmacie/dentaire"
+            },
+            {
+                "title": "Corps",
+                "slug": "corps",
+                "link": "https://www.carrefour.fr/r/parapharmacie/corps"
+            },
+            {
+                "title": "Complements alimentaires",
+                "slug": "complements-alimentaires",
+                "link": "https://www.carrefour.fr/r/parapharmacie/complements-alimentaires"
+            },
+            {
+                "title": "Premiers Soins",
+                "slug": "premiers-soins",
+                "link": "https://www.carrefour.fr/r/parapharmacie/1ers-soins"
+            },
+            {
+                "title": "Bebe",
+                "slug": "bebe",
+                "link": "https://www.carrefour.fr/r/parapharmacie/bebe"
+            },
+            {
+                "title": "Coffrets",
+                "slug": "coffrets",
+                "link": "https://www.carrefour.fr/r/parapharmacie/coffrets"
+            }
+        ]
+    },
+    {
+        "title": "Entretien et Nettoyage",
+        "slug": "entretien-et-nettoyage",
+        "link": "https://www.carrefour.fr/r/entretien-et-nettoyage",
+        "sub_cat": [
+            {
+                "title": "Anti-moustiques et Insecticides",
+                "slug": "anti-moustiques-et-insecticides",
+                "link": "https://www.carrefour.fr/r/entretien-et-nettoyage/insecticides"
+            },
+            {
+                "title": "Lessives et Soin du linge",
+                "slug": "lessives-et-soin-du-linge",
+                "link": "https://www.carrefour.fr/r/entretien-et-nettoyage/lessives-et-soin-du-linge"
+            },
+            {
+                "title": "Produits nettoyants",
+                "slug": "produits-nettoyants",
+                "link": "https://www.carrefour.fr/r/entretien-et-nettoyage/produits-nettoyants"
+            },
+            {
+                "title": "Nettoyants vaisselle",
+                "slug": "nettoyants-vaisselle",
+                "link": "https://www.carrefour.fr/r/entretien-et-nettoyage/nettoyants-vaisselle"
+            },
+            {
+                "title": "Essuie-tout, Papier toilette et Mouchoirs",
+                "slug": "essuie-tout-papier-toilette-et-mouchoirs",
+                "link": "https://www.carrefour.fr/r/entretien-et-nettoyage/essuie-tout-papier-toilette-et-mouchoirs"
+            },
+            {
+                "title": "Desodorisants et Bougies",
+                "slug": "desodorisants-et-bougies",
+                "link": "https://www.carrefour.fr/r/entretien-et-nettoyage/desodorisants"
+            },
+            {
+                "title": "Accessoires de menage",
+                "slug": "accessoires-de-menage",
+                "link": "https://www.carrefour.fr/r/entretien-et-nettoyage/accessoires-de-menage"
+            },
+            {
+                "title": "Allumettes et allume-feux",
+                "slug": "allumettes-et-allume-feux",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/barbecue-plancha/gaz-charbons-allume-feu"
+            },
+            {
+                "title": "Entretien et Nettoyage Covid-19",
+                "slug": "entretien-et-nettoyage-covid-19",
+                "link": "https://www.carrefour.fr/r/entretien-et-nettoyage/entretien-et-nettoyage-covid-19"
+            }
+        ]
+    },
+    {
+        "title": "Animalerie",
+        "slug": "animalerie",
+        "link": "https://www.carrefour.fr/r/animalerie",
+        "sub_cat": [
+            {
+                "title": "Chats",
+                "slug": "chats",
+                "link": "https://www.carrefour.fr/r/animalerie/chats"
+            },
+            {
+                "title": "Chiens",
+                "slug": "chiens",
+                "link": "https://www.carrefour.fr/r/animalerie/chiens"
+            },
+            {
+                "title": "Poissons",
+                "slug": "poissons",
+                "link": "https://www.carrefour.fr/r/animalerie/poissons"
+            },
+            {
+                "title": "Rongeurs",
+                "slug": "rongeurs",
+                "link": "https://www.carrefour.fr/r/animalerie/rongeurs"
+            },
+            {
+                "title": "Oiseaux",
+                "slug": "oiseaux",
+                "link": "https://www.carrefour.fr/r/animalerie/oiseaux"
+            },
+            {
+                "title": "Reptiles",
+                "slug": "reptiles",
+                "link": "https://www.carrefour.fr/r/animalerie/reptiles"
+            },
+            {
+                "title": "Basse-cour",
+                "slug": "basse-cour",
+                "link": "https://www.carrefour.fr/r/animalerie/basse-cour"
+            },
+            {
+                "title": "Chevaux",
+                "slug": "chevaux",
+                "link": "https://www.carrefour.fr/r/animalerie/chevaux"
+            }
+        ]
+    },
+    {
+        "title": "Fournitures scolaires et Papeterie",
+        "slug": "fournitures-scolaires-et-papeterie",
+        "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie",
+        "sub_cat": [
+            {
+                "title": "Cahiers, Feuilles et Agendas",
+                "slug": "cahiers-feuilles-et-agendas",
+                "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie/cahier-feuilles"
+            },
+            {
+                "title": "Classement et Protection",
+                "slug": "classement-et-protection",
+                "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie/classement-protections"
+            },
+            {
+                "title": "Ecriture",
+                "slug": "ecriture",
+                "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie/ecriture"
+            },
+            {
+                "title": "Materiel d'ecolier",
+                "slug": "materiel-decolier",
+                "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie/petites-fournitures"
+            },
+            {
+                "title": "Dessin",
+                "slug": "dessin",
+                "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie/dessin"
+            },
+            {
+                "title": "Materiel de bureau",
+                "slug": "materiel-de-bureau",
+                "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie/agendas-accessoires-de-bureau"
+            },
+            {
+                "title": "Sacs, Cartables et Trousses",
+                "slug": "sacs-cartables-et-trousses",
+                "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie/sacs-cartables-trousses"
+            },
+            {
+                "title": "Calculatrices",
+                "slug": "calculatrices",
+                "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie/calculatrices"
+            },
+            {
+                "title": "Livres scolaires",
+                "slug": "livres-scolaires",
+                "link": "https://www.carrefour.fr/r/livres/scolaire-parascolaire"
+            },
+            {
+                "title": "Vos fournitures scolaires livrees chez vous",
+                "slug": "vos-fournitures-scolaires-livrees-chez-vous",
+                "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie?filters%5BFacet_livraison%5D%5B0%5D=Livraison%20%C3%A0%20domicile&noRedirect=0"
+            }
+        ]
+    },
+    {
+        "title": "Velos, Trottinettes et Loisirs",
+        "slug": "velos-trottinettes-et-loisirs",
+        "link": "https://www.carrefour.fr/r/jouets-sports-loisirs",
+        "sub_cat": [
+            {
+                "title": "Velo et Draisienne",
+                "slug": "velo-et-draisienne",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/velos"
+            },
+            {
+                "title": "Trottinette et hoverboard",
+                "slug": "trottinette-et-hoverboard",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/trottinettes-glisse-urbaine"
+            },
+            {
+                "title": "Roller et skateboard",
+                "slug": "roller-et-skateboard",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/roller-skateboard"
+            },
+            {
+                "title": "Appareil de fitness",
+                "slug": "appareil-de-fitness",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/appareil-fitness"
+            },
+            {
+                "title": "Appareil de musculation",
+                "slug": "appareil-de-musculation",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/appareil-musculation"
+            },
+            {
+                "title": "Materiel de yoga",
+                "slug": "materiel-de-yoga",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/materiel-yoga"
+            },
+            {
+                "title": "Natation et Sports d'eau",
+                "slug": "natation-et-sports-deau",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/natation-sport-eau"
+            },
+            {
+                "title": "Randonnee et Camping",
+                "slug": "randonnee-et-camping",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/randonnee-camping"
+            },
+            {
+                "title": "Sports individuels",
+                "slug": "sports-individuels",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/sports-individuels"
+            },
+            {
+                "title": "Sports collectifs",
+                "slug": "sports-collectifs",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/sports-collectifs"
+            },
+            {
+                "title": "Sports d'hiver",
+                "slug": "sports-dhiver",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/sports-hiver"
+            },
+            {
+                "title": "Recuperation et soin du sportif",
+                "slug": "recuperation-et-soin-du-sportif",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/recuperation-soin-sportif"
+            },
+            {
+                "title": "Talkie-Walkie",
+                "slug": "talkie-walkie",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/talkie-walkie"
+            },
+            {
+                "title": "Coffrets cadeaux sejours",
+                "slug": "coffrets-cadeaux-sejours",
+                "link": "https://www.carrefour.fr/r/e-carte-coffret-cadeau/coffret-cadeau"
+            },
+            {
+                "title": "Sport connecte",
+                "slug": "sport-connecte",
+                "link": "https://www.carrefour.fr/r/jouets-sports-loisirs/sport-connecte"
+            }
+        ]
+    },
+    {
+        "title": "Jeux video",
+        "slug": "jeux-video",
+        "link": "https://www.carrefour.fr/r/jeux-videos-culture",
+        "sub_cat": [
+            {
+                "title": "Nintendo Switch",
+                "slug": "nintendo-switch",
+                "link": "https://www.carrefour.fr/r/jeux-videos-culture/nintendo-switch"
+            },
+            {
+                "title": "Playstation 5",
+                "slug": "playstation-5",
+                "link": "https://www.carrefour.fr/r/jeux-videos-culture/playstation-5"
+            },
+            {
+                "title": "Playstation 4",
+                "slug": "playstation-4",
+                "link": "https://www.carrefour.fr/r/jeux-videos-culture/playstation-4"
+            },
+            {
+                "title": "Xbox Series",
+                "slug": "xbox-series",
+                "link": "https://www.carrefour.fr/r/jeux-videos-culture/xbox-series-x"
+            },
+            {
+                "title": "Xbox One",
+                "slug": "xbox-one",
+                "link": "https://www.carrefour.fr/r/jeux-videos-culture/xbox-one"
+            },
+            {
+                "title": "Gaming PC",
+                "slug": "gaming-pc",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/ordinateurs-tablettes/ordinateurs-portables/ordinateurs-portables-gamer"
+            },
+            {
+                "title": "Retrogaming",
+                "slug": "retrogaming",
+                "link": "https://www.carrefour.fr/r/jeux-videos-culture/autres-consoles-accessoires-jeux"
+            },
+            {
+                "title": "E-cartes cadeaux",
+                "slug": "e-cartes-cadeaux",
+                "link": "https://www.carrefour.fr/r/e-carte-coffret-cadeau/e-cartes"
+            }
+        ]
+    },
+    {
+        "title": "Smartphones et Objets connectes",
+        "slug": "smartphones-et-objets-connectes",
+        "link": "https://www.carrefour.fr/r/smartphones-objets-connectes",
+        "sub_cat": [
+            {
+                "title": "Telephone",
+                "slug": "telephone",
+                "link": "https://www.carrefour.fr/r/smartphones-objets-connectes/telephone"
+            },
+            {
+                "title": "Batterie externe",
+                "slug": "batterie-externe",
+                "link": "https://www.carrefour.fr/r/smartphones-objets-connectes/batteries-externes"
+            },
+            {
+                "title": "Carte memoire",
+                "slug": "carte-memoire",
+                "link": "https://www.carrefour.fr/r/smartphones-objets-connectes/cartes-memoires"
+            },
+            {
+                "title": "Accessoires pour smartphone",
+                "slug": "accessoires-pour-smartphone",
+                "link": "https://www.carrefour.fr/r/smartphones-objets-connectes/accessoires-smartphone"
+            },
+            {
+                "title": "Montre et bracelet connecte",
+                "slug": "montre-et-bracelet-connecte",
+                "link": "https://www.carrefour.fr/r/smartphones-objets-connectes/montre-bracelet-connecte"
+            },
+            {
+                "title": "Objet connecte",
+                "slug": "objet-connecte",
+                "link": "https://www.carrefour.fr/r/smartphones-objets-connectes/objets-connectees"
+            },
+            {
+                "title": "Telephone fixe",
+                "slug": "telephone-fixe",
+                "link": "https://www.carrefour.fr/r/smartphones-objets-connectes/telephones-fixes"
+            }
+        ]
+    },
+    {
+        "title": "Informatique et Bureau",
+        "slug": "informatique-et-bureau",
+        "link": "https://www.carrefour.fr/r/informatique-bureau",
+        "sub_cat": [
+            {
+                "title": "Gaming PC",
+                "slug": "gaming-pc",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/ordinateurs-tablettes/ordinateurs-portables/ordinateurs-portables-gamer"
+            },
+            {
+                "title": "Ordinateur et Ecran",
+                "slug": "ordinateur-et-ecran",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/ordinateurs-tablettes"
+            },
+            {
+                "title": "Tablette et iPad",
+                "slug": "tablette-et-ipad",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/tablettes-ipad"
+            },
+            {
+                "title": "Imprimante, Papier et Cartouche",
+                "slug": "imprimante-papier-et-cartouche",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/imprimantes-consommables"
+            },
+            {
+                "title": "Casque, Micro et Enceinte",
+                "slug": "casque-micro-et-enceinte",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/casques-micros-enceintes"
+            },
+            {
+                "title": "Disque dur, SSD, NAS et Cle USB",
+                "slug": "disque-dur-ssd-nas-et-cle-usb",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/stockage"
+            },
+            {
+                "title": "Souris, Clavier et Tapis",
+                "slug": "souris-clavier-et-tapis",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/souris-clavier"
+            },
+            {
+                "title": "Materiel de streaming",
+                "slug": "materiel-de-streaming",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/materiel-streaming"
+            },
+            {
+                "title": "Webcam",
+                "slug": "webcam",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/webcam"
+            },
+            {
+                "title": "Reseau",
+                "slug": "reseau",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/reseau"
+            },
+            {
+                "title": "Composant PC",
+                "slug": "composant-pc",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/composant-pc"
+            },
+            {
+                "title": "Accessoires informatique",
+                "slug": "accessoires-informatique",
+                "link": "https://www.carrefour.fr/r/informatique-bureau/peripheriques-accessoires-ordinateur"
+            },
+            {
+                "title": "Fournitures et Papeterie",
+                "slug": "fournitures-et-papeterie",
+                "link": "https://www.carrefour.fr/r/fournitures-scolaires-papeterie"
+            }
+        ]
+    },
+    {
+        "title": "Image et Son",
+        "slug": "image-et-son",
+        "link": "https://www.carrefour.fr/r/image-son",
+        "sub_cat": [
+            {
+                "title": "TV et Video",
+                "slug": "tv-et-video",
+                "link": "https://www.carrefour.fr/r/image-son/tv-video"
+            },
+            {
+                "title": "Casque et Ecouteurs",
+                "slug": "casque-et-ecouteurs",
+                "link": "https://www.carrefour.fr/r/image-son/casques-ecouteurs"
+            },
+            {
+                "title": "Enceinte Bluetooth, Hi-Fi et Radio",
+                "slug": "enceinte-bluetooth-hi-fi-et-radio",
+                "link": "https://www.carrefour.fr/r/image-son/son"
+            },
+            {
+                "title": "Passerelle multimedia",
+                "slug": "passerelle-multimedia",
+                "link": "https://www.carrefour.fr/r/image-son/chromecast-apple-tv"
+            },
+            {
+                "title": "Photo, Camera et Drone",
+                "slug": "photo-camera-et-drone",
+                "link": "https://www.carrefour.fr/r/image-son/appareils-photo"
+            },
+            {
+                "title": "Accessoires TV, Video et Meubles",
+                "slug": "accessoires-tv-video-et-meubles",
+                "link": "https://www.carrefour.fr/r/image-son/accessoires-tv-video-meubles"
+            },
+            {
+                "title": "Accessoires audio",
+                "slug": "accessoires-audio",
+                "link": "https://www.carrefour.fr/r/image-son/accessoires-audio"
+            },
+            {
+                "title": "Accessoires photo",
+                "slug": "accessoires-photo",
+                "link": "https://www.carrefour.fr/r/image-son/accessoires-photo-video"
+            },
+            {
+                "title": "Pieces detachees pour TV et audio",
+                "slug": "pieces-detachees-pour-tv-et-audio",
+                "link": "https://www.carrefour.fr/r/pieces-detachees/pieces-detachees-image"
+            }
+        ]
+    },
+    {
+        "title": "Electromenager",
+        "slug": "electromenager",
+        "link": "https://www.carrefour.fr/r/electromenager",
+        "sub_cat": [
+            {
+                "title": "Ventilateur et traitement de l'air",
+                "slug": "ventilateur-et-traitement-de-lair",
+                "link": "https://www.carrefour.fr/r/electromenager/ventilateur-traitement-lair"
+            },
+            {
+                "title": "Machine a cafe",
+                "slug": "machine-a-cafe",
+                "link": "https://www.carrefour.fr/r/electromenager/machine-cafe"
+            },
+            {
+                "title": "Petit dejeuner",
+                "slug": "petit-dejeuner",
+                "link": "https://www.carrefour.fr/r/electromenager/petit-dejeuner"
+            },
+            {
+                "title": "Cuisson et Robots",
+                "slug": "cuisson-et-robots",
+                "link": "https://www.carrefour.fr/r/electromenager/cuisson-robot"
+            },
+            {
+                "title": "Friteuses sans huile",
+                "slug": "friteuses-sans-huile",
+                "link": "https://www.carrefour.fr/r/electromenager/cuisson-robot/cuiseurs-multicuiseurs/friteuses?filters%5Bproduct.technical_non_food_attributes.fryer_type%5D%5B0%5D=Sans%20huile/peu%20d%27huile&noRedirect=0"
+            },
+            {
+                "title": "Mini-four et micro-ondes",
+                "slug": "mini-four-et-micro-ondes",
+                "link": "https://www.carrefour.fr/r/electromenager/mini-four-micro-ondes"
+            },
+            {
+                "title": "Fait maison",
+                "slug": "fait-maison",
+                "link": "https://www.carrefour.fr/r/electromenager/fait-maison"
+            },
+            {
+                "title": "Cuisson festive",
+                "slug": "cuisson-festive",
+                "link": "https://www.carrefour.fr/r/electromenager/cuisson-festive"
+            },
+            {
+                "title": "Boisson",
+                "slug": "boisson",
+                "link": "https://www.carrefour.fr/r/electromenager/boisson"
+            },
+            {
+                "title": "Entretien du sol",
+                "slug": "entretien-du-sol",
+                "link": "https://www.carrefour.fr/r/electromenager/entretien-sol"
+            },
+            {
+                "title": "Hygiene et Beaute",
+                "slug": "hygiene-et-beaute",
+                "link": "https://www.carrefour.fr/r/electromenager/hygiene-beaute"
+            },
+            {
+                "title": "Repassage",
+                "slug": "repassage",
+                "link": "https://www.carrefour.fr/r/electromenager/repassage"
+            },
+            {
+                "title": "Couture",
+                "slug": "couture",
+                "link": "https://www.carrefour.fr/r/electromenager/couture"
+            },
+            {
+                "title": "Gros Electromenager",
+                "slug": "gros-electromenager",
+                "link": "https://www.carrefour.fr/r/electromenager/gros-electromenager"
+            },
+            {
+                "title": "Chauffage et Radiateur",
+                "slug": "chauffage-et-radiateur",
+                "link": "https://www.carrefour.fr/r/electromenager/chauffage-climatisation"
+            },
+            {
+                "title": "Pieces detachees",
+                "slug": "pieces-detachees",
+                "link": "https://www.carrefour.fr/r/pieces-detachees"
+            }
+        ]
+    },
+    {
+        "title": "Jardin et Amenagement d'exterieur",
+        "slug": "jardin-et-amenagement-dexterieur",
+        "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur",
+        "sub_cat": [
+            {
+                "title": "Mobilier de jardin",
+                "slug": "mobilier-de-jardin",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/mobilier-jardin"
+            },
+            {
+                "title": "Barbecues et Planchas",
+                "slug": "barbecues-et-planchas",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/barbecue-plancha"
+            },
+            {
+                "title": "Piscine et Spa",
+                "slug": "piscine-et-spa",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/piscine-spa"
+            },
+            {
+                "title": "Jeux d'exterieur",
+                "slug": "jeux-dexterieur",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/jeux-dexterieur"
+            },
+            {
+                "title": "Outillage",
+                "slug": "outillage",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/outillage"
+            },
+            {
+                "title": "Abris et Amenagement",
+                "slug": "abris-et-amenagement",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/abris-amenagement"
+            },
+            {
+                "title": "Arrosage",
+                "slug": "arrosage",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/arrosage"
+            },
+            {
+                "title": "Equipement du jardinier",
+                "slug": "equipement-du-jardinier",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/equipement-jardinier"
+            },
+            {
+                "title": "Potager",
+                "slug": "potager",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/potager"
+            },
+            {
+                "title": "Plantes et Fleurs",
+                "slug": "plantes-et-fleurs",
+                "link": "https://www.carrefour.fr/r/jardin-amenagement-dexterieur/plantes-fleurs"
+            }
+        ]
+    },
+    {
+        "title": "Bebe",
+        "slug": "bebe",
+        "link": "https://www.carrefour.fr/r/bebe",
+        "sub_cat": [
+            {
+                "title": "Alimentation",
+                "slug": "alimentation",
+                "link": "https://www.carrefour.fr/r/bebe/alimentation"
+            },
+            {
+                "title": "Change et Soins",
+                "slug": "change-et-soins",
+                "link": "https://www.carrefour.fr/r/bebe/change-soins"
+            },
+            {
+                "title": "Bain et Toilette",
+                "slug": "bain-et-toilette",
+                "link": "https://www.carrefour.fr/r/bebe/bain-toilette"
+            },
+            {
+                "title": "Promenade",
+                "slug": "promenade",
+                "link": "https://www.carrefour.fr/r/bebe/promenade"
+            },
+            {
+                "title": "Voyage",
+                "slug": "voyage",
+                "link": "https://www.carrefour.fr/r/bebe/voyage"
+            },
+            {
+                "title": "Chambre",
+                "slug": "chambre",
+                "link": "https://www.carrefour.fr/r/bebe/chambre"
+            },
+            {
+                "title": "Eveil",
+                "slug": "eveil",
+                "link": "https://www.carrefour.fr/r/bebe/eveil"
+            },
+            {
+                "title": "Vetements",
+                "slug": "vetements",
+                "link": "https://www.carrefour.fr/r/bebe/vetements"
+            },
+            {
+                "title": "Maternite et Allaitement",
+                "slug": "maternite-et-allaitement",
+                "link": "https://www.carrefour.fr/r/bebe/maternite-allaitement"
+            }
+        ]
+    },
+    {
+        "title": "Jeux et Jouets",
+        "slug": "jeux-et-jouets",
+        "link": "https://www.carrefour.fr/r/jeux-jouets",
+        "sub_cat": [
+            {
+                "title": "Jeu de societe, cartes et puzzle",
+                "slug": "jeu-de-societe-cartes-et-puzzle",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/jeux-societe-puzzle"
+            },
+            {
+                "title": "Jeu de construction",
+                "slug": "jeu-de-construction",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/jeux-construction"
+            },
+            {
+                "title": "Poupee et poupon",
+                "slug": "poupee-et-poupon",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/poupees"
+            },
+            {
+                "title": "Vehicule, circuit et garage",
+                "slug": "vehicule-circuit-et-garage",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/vehicules-circuits-garages"
+            },
+            {
+                "title": "Jouet telecommande",
+                "slug": "jouet-telecommande",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/jouet-telecommande"
+            },
+            {
+                "title": "Jouet 1er age et educatif",
+                "slug": "jouet-1er-age-et-educatif",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/jouets-1-age-peluches"
+            },
+            {
+                "title": "Activites creatives et manuelles",
+                "slug": "activites-creatives-et-manuelles",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/activites-creatives-manuelles"
+            },
+            {
+                "title": "Figurine et produit derive",
+                "slug": "figurine-et-produit-derive",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/produits-derives"
+            },
+            {
+                "title": "Jouet electronique",
+                "slug": "jouet-electronique",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/ordinateurs-tablettes-enfants-electroniques"
+            },
+            {
+                "title": "Jeu de cafe",
+                "slug": "jeu-de-cafe",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/jeux-cafe-exterieur-sports"
+            },
+            {
+                "title": "Jeu d'imitation",
+                "slug": "jeu-dimitation",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/jeux-imitation-deguisements"
+            },
+            {
+                "title": "Deguisement",
+                "slug": "deguisement",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/deguisements"
+            },
+            {
+                "title": "Peluche",
+                "slug": "peluche",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/peluches"
+            },
+            {
+                "title": "Jeu d'adresse et de recre",
+                "slug": "jeu-dadresse-et-de-recre",
+                "link": "https://www.carrefour.fr/r/jeux-jouets/jeux-dadresse-recre"
+            }
+        ]
+    },
+    {
+        "title": "Bricolage",
+        "slug": "bricolage",
+        "link": "https://www.carrefour.fr/r/bricolage",
+        "sub_cat": [
+            {
+                "title": "Ventilateur et traitement de l'air",
+                "slug": "ventilateur-et-traitement-de-lair",
+                "link": "https://www.carrefour.fr/r/bricolage/chauffage-climatisation"
+            },
+            {
+                "title": "Electricite et eclairage",
+                "slug": "electricite-et-eclairage",
+                "link": "https://www.carrefour.fr/r/bricolage/electricite-eclairage"
+            },
+            {
+                "title": "Outillage electrique",
+                "slug": "outillage-electrique",
+                "link": "https://www.carrefour.fr/r/bricolage/outillage-electrique"
+            },
+            {
+                "title": "Outillage a main",
+                "slug": "outillage-a-main",
+                "link": "https://www.carrefour.fr/r/bricolage/outillage-main"
+            },
+            {
+                "title": "Domotique et securite de la maison",
+                "slug": "domotique-et-securite-de-la-maison",
+                "link": "https://www.carrefour.fr/r/bricolage/domotique-securite-maison"
+            },
+            {
+                "title": "Colles et adhesifs",
+                "slug": "colles-et-adhesifs",
+                "link": "https://www.carrefour.fr/r/bricolage/colles-adhesifs"
+            },
+            {
+                "title": "Peinture et Droguerie",
+                "slug": "peinture-et-droguerie",
+                "link": "https://www.carrefour.fr/r/bricolage/peinture-droguerie"
+            },
+            {
+                "title": "Equipement et transport",
+                "slug": "equipement-et-transport",
+                "link": "https://www.carrefour.fr/r/bricolage/equipement-transport"
+            },
+            {
+                "title": "Quincaillerie et securite",
+                "slug": "quincaillerie-et-securite",
+                "link": "https://www.carrefour.fr/r/bricolage/quincaillerie-securite"
+            },
+            {
+                "title": "Plomberie et salle de bains",
+                "slug": "plomberie-et-salle-de-bains",
+                "link": "https://www.carrefour.fr/r/bricolage/plomberie-salle-bains"
+            },
+            {
+                "title": "Revetement de sol et mural",
+                "slug": "revetement-de-sol-et-mural",
+                "link": "https://www.carrefour.fr/r/bricolage/revetement-sol-mural"
+            },
+            {
+                "title": "Menuiserie, stores et tringles a rideaux",
+                "slug": "menuiserie-stores-et-tringles-a-rideaux",
+                "link": "https://www.carrefour.fr/r/bricolage/menuiserie-stores-tringles-rideaux"
+            }
+        ]
+    },
+    {
+        "title": "Maison et Decoration",
+        "slug": "maison-et-decoration",
+        "link": "https://www.carrefour.fr/r/maison-decoration",
+        "sub_cat": [
+            {
+                "title": "Ventilateur et traitement de l'air",
+                "slug": "ventilateur-et-traitement-de-lair",
+                "link": "https://www.carrefour.fr/r/electromenager/ventilateur-traitement-lair"
+            },
+            {
+                "title": "Cuisine",
+                "slug": "cuisine",
+                "link": "https://www.carrefour.fr/r/maison-decoration/cuisine"
+            },
+            {
+                "title": "Mobilier et Decoration",
+                "slug": "mobilier-et-decoration",
+                "link": "https://www.carrefour.fr/r/maison-decoration/mobilier-decoration"
+            },
+            {
+                "title": "Linge de Maison",
+                "slug": "linge-de-maison",
+                "link": "https://www.carrefour.fr/r/maison-decoration/linge-maison"
+            },
+            {
+                "title": "Literie",
+                "slug": "literie",
+                "link": "https://www.carrefour.fr/r/maison-decoration/chambre-literie"
+            },
+            {
+                "title": "Vaisselle et Art de la table",
+                "slug": "vaisselle-et-art-de-la-table",
+                "link": "https://www.carrefour.fr/r/maison-decoration/vaisselle-art-de-la-table"
+            },
+            {
+                "title": "Emballage et conservation",
+                "slug": "emballage-et-conservation",
+                "link": "https://www.carrefour.fr/r/maison-decoration/cuisine/emballages-conservations"
+            },
+            {
+                "title": "Piles",
+                "slug": "piles",
+                "link": "https://www.carrefour.fr/r/bricolage/electricite-eclairage/piles"
+            },
+            {
+                "title": "Ampoules",
+                "slug": "ampoules",
+                "link": "https://www.carrefour.fr/r/bricolage/electricite-eclairage/ampoules"
+            }
+        ]
+    },
+    {
+        "title": "Auto et Moto",
+        "slug": "auto-et-moto",
+        "link": "https://www.carrefour.fr/r/auto-moto",
+        "sub_cat": [
+            {
+                "title": "Transport et Voyage",
+                "slug": "transport-et-voyage",
+                "link": "https://www.carrefour.fr/r/auto-moto/transport-voyage"
+            },
+            {
+                "title": "Nettoyage de la voiture",
+                "slug": "nettoyage-de-la-voiture",
+                "link": "https://www.carrefour.fr/r/auto-moto/nettoyage-voiture"
+            },
+            {
+                "title": "Essuie-glaces et Lave glaces",
+                "slug": "essuie-glaces-et-lave-glaces",
+                "link": "https://www.carrefour.fr/r/auto-moto/essuie-glaces-lave-glaces"
+            },
+            {
+                "title": "Equipements auto",
+                "slug": "equipements-auto",
+                "link": "https://www.carrefour.fr/r/auto-moto/equipements-auto"
+            },
+            {
+                "title": "Audio, Multimedia, GPS",
+                "slug": "audio-multimedia-gps",
+                "link": "https://www.carrefour.fr/r/auto-moto/audio-multimedia-gps"
+            },
+            {
+                "title": "Huiles et entretien du moteur",
+                "slug": "huiles-et-entretien-du-moteur",
+                "link": "https://www.carrefour.fr/r/auto-moto/huiles-entretien-moteur"
+            },
+            {
+                "title": "Pieces auto",
+                "slug": "pieces-auto",
+                "link": "https://www.carrefour.fr/r/auto-moto/pieces-auto"
+            },
+            {
+                "title": "Outils d'atelier",
+                "slug": "outils-datelier",
+                "link": "https://www.carrefour.fr/r/auto-moto/outils-datelier"
+            },
+            {
+                "title": "Accessoires de moto",
+                "slug": "accessoires-de-moto",
+                "link": "https://www.carrefour.fr/r/auto-moto/accessoires-moto"
+            },
+            {
+                "title": "Equipement pilote",
+                "slug": "equipement-pilote",
+                "link": "https://www.carrefour.fr/r/auto-moto/equipement-pilote"
+            }
+        ]
+    },
+    {
+        "title": "Mode et Bagagerie",
+        "slug": "mode-et-bagagerie",
+        "link": "https://www.carrefour.fr/r/mode-bagagerie",
+        "sub_cat": [
+            {
+                "title": "Femme",
+                "slug": "femme",
+                "link": "https://www.carrefour.fr/r/mode-bagagerie/femme"
+            },
+            {
+                "title": "Homme",
+                "slug": "homme",
+                "link": "https://www.carrefour.fr/r/mode-bagagerie/homme"
+            },
+            {
+                "title": "Fille",
+                "slug": "fille",
+                "link": "https://www.carrefour.fr/r/mode-bagagerie/fille"
+            },
+            {
+                "title": "Garcon",
+                "slug": "garcon",
+                "link": "https://www.carrefour.fr/r/mode-bagagerie/garcon"
+            },
+            {
+                "title": "Bebe",
+                "slug": "bebe",
+                "link": "https://www.carrefour.fr/r/bebe/vetements"
+            },
+            {
+                "title": "Chaussures et Chaussons",
+                "slug": "chaussures-et-chaussons",
+                "link": "https://www.carrefour.fr/r/mode-bagagerie/chaussures-chaussons"
+            },
+            {
+                "title": "Bagagerie et Maroquinerie",
+                "slug": "bagagerie-et-maroquinerie",
+                "link": "https://www.carrefour.fr/r/mode-bagagerie/bagagerie-maroquinerie"
+            }
+        ]
+    },
+    {
+        "title": "E-cartes et Coffrets cadeaux",
+        "slug": "e-cartes-et-coffrets-cadeaux",
+        "link": "https://www.carrefour.fr/r/e-carte-coffret-cadeau",
+        "sub_cat": [
+            {
+                "title": "E-cartes cadeaux",
+                "slug": "e-cartes-cadeaux",
+                "link": "https://www.carrefour.fr/r/e-carte-coffret-cadeau/e-cartes"
+            },
+            {
+                "title": "E-cartes gaming",
+                "slug": "e-cartes-gaming",
+                "link": "https://www.carrefour.fr/r/e-carte-coffret-cadeau?filters%5Bproduct.technical_non_food_attributes.character%5D%5B0%5D=Gaming&noRedirect=0"
+            },
+            {
+                "title": "E-cartes divertissement",
+                "slug": "e-cartes-divertissement",
+                "link": "https://www.carrefour.fr/r/e-carte-coffret-cadeau/e-cartes?filters%5Bproduct.technical_non_food_attributes.character%5D%5B0%5D=Divertissement&noRedirect=0"
+            },
+            {
+                "title": "E-cartes sport et mode",
+                "slug": "e-cartes-sport-et-mode",
+                "link": "https://www.carrefour.fr/r/e-carte-coffret-cadeau/e-cartes?filters%5Bproduct.technical_non_food_attributes.character%5D%5B0%5D=Sport%20%26%20Mode&noRedirect=0"
+            },
+            {
+                "title": "Coffrets cadeaux sejours",
+                "slug": "coffrets-cadeaux-sejours",
+                "link": "https://www.carrefour.fr/r/e-carte-coffret-cadeau/coffret-cadeau"
+            }
+        ]
+    },
+    {
+        "title": "Livres et Culture",
+        "slug": "livres-et-culture",
+        "link": "https://www.carrefour.fr/r/livres",
+        "sub_cat": [
+            {
+                "title": "Litterature",
+                "slug": "litterature",
+                "link": "https://www.carrefour.fr/r/livres/litterature"
+            },
+            {
+                "title": "BD, Humour et Mangas",
+                "slug": "bd-humour-et-mangas",
+                "link": "https://www.carrefour.fr/r/livres/bd-humour-mangas"
+            },
+            {
+                "title": "Jeunesse",
+                "slug": "jeunesse",
+                "link": "https://www.carrefour.fr/r/livres/jeunesse"
+            },
+            {
+                "title": "Actualite et Societe",
+                "slug": "actualite-et-societe",
+                "link": "https://www.carrefour.fr/r/livres/actualite-societe"
+            },
+            {
+                "title": "Livre vie pratique",
+                "slug": "livre-vie-pratique",
+                "link": "https://www.carrefour.fr/r/livres/vie-pratique"
+            },
+            {
+                "title": "Art, Musique, Cinema, Medias",
+                "slug": "art-musique-cinema-medias",
+                "link": "https://www.carrefour.fr/r/livres/art-musique-cinema-medias"
+            },
+            {
+                "title": "Dictionnaire et Langues",
+                "slug": "dictionnaire-et-langues",
+                "link": "https://www.carrefour.fr/r/livres/dictionnaire-langues"
+            },
+            {
+                "title": "Entreprise et Droit",
+                "slug": "entreprise-et-droit",
+                "link": "https://www.carrefour.fr/r/livres/entreprise-droit"
+            },
+            {
+                "title": "Livre informatique",
+                "slug": "livre-informatique",
+                "link": "https://www.carrefour.fr/r/livres/informatique"
+            },
+            {
+                "title": "Science, Medecine, Paramedical, Veterinaire",
+                "slug": "science-medecine-paramedical-veterinaire",
+                "link": "https://www.carrefour.fr/r/livres/science-medecine-paramedical-veterinaire"
+            },
+            {
+                "title": "Livre Scolaire et Parascolaire",
+                "slug": "livre-scolaire-et-parascolaire",
+                "link": "https://www.carrefour.fr/r/livres/scolaire-parascolaire"
+            },
+            {
+                "title": "Film DVD et musique CD",
+                "slug": "film-dvd-et-musique-cd",
+                "link": "https://www.carrefour.fr/r/livres/dvd-cd-livres"
+            },
+            {
+                "title": "Instruments de musique",
+                "slug": "instruments-de-musique",
+                "link": "https://www.carrefour.fr/r/livres/instruments-de-musique"
+            }
+        ]
+    }
+]
